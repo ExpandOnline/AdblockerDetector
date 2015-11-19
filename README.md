@@ -4,4 +4,4 @@ The Adblocker Detector detects adblocker and privacy browser plugins. The detect
 Requirements
 ---
 - Server running PHP version 4 with the cURL extension enabled
-- Google Analytics Tracking-ID
+- Google Analytics Tracking-ID (In collectAnyway.php)
